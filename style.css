@@ -18,8 +18,9 @@ body {
 }
 
 @media (max-width:768px) {
-.ei-matrix { text-align: center;
-}
+  .ei-matrix {
+     text-align: center;
+  }
 }
 .center-elem {
   display: block;
