@@ -4,25 +4,25 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.eis-matrix {
+.matrix {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.eis-matrix img {
+.matrix img {
   width: 100%;
 }
-.more_info {
+.matrix_info {
   font-family: fantasy, cursive;
 }
 
 @media (max-width: 768px) {
-  .eis-matrix {  
+  .matrix {  
     text-align: center;
   }
 }
-.main-page {
+.main {
   display: block;
   width: 500px;
   margin: 0 auto 0;
