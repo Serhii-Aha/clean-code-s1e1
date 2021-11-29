@@ -13,7 +13,7 @@ body {
 .eis-matrix img {
   width: 100%;
 }
-.eis-matrix .more_inf {
+.eis-matrix .more_info {
   font-family: fantasy, cursive;
 }
 
@@ -21,7 +21,7 @@ body {
 .eis-matrix {  text-align: center;
 }
 }
-.centered-main-page-element {
+.main-page {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -31,7 +31,7 @@ body {
   display: inline-block;
   flex-grow: 1
 }
-.task-row-wrapper {
+.task-wrapper {
   display: flex;
 }
 ul {
